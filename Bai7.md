@@ -1,0 +1,14 @@
+- Các thiết bị/dữ liệu bị xếp sai nhóm:
+- Hóa đơn in ra giấy ( input => output )
+- Camera quét mã vạch ( process => input )
+- RAM lưu trữ tạm ( process => storage )
+- Ổ cứng HDD lưu lịch sử ( output => storage )
+-  Bảng IPO chuẩn xác:
+- Thông tin người nhận: input
+- Bàn phím nhập liệu: input 
+- Camera quét mã vạch: input 
+- CPU xử lý cước phí: process
+- Màn hình hiển thị trạng thái đơn: output
+- Hóa đơn in ra giấy: output
+- RAM lưu trữ tạm: storage
+- Ổ cứng HDD lưu lịch sử: storage
